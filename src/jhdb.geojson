@@ -295,7 +295,15 @@
       19.352610894378625
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission": "Halloween Flying Pumpkin Drone",
+        "Altitude": "80m",
+        "Velocity": "70mph",
+        "Battery_percentage": "60%",
+        "Mission_details": "Get information from the scout",
+        "Owner": "Sidorovich",
+        "Pilot": "Nimble"
+  },
 },
 {
   "type": "Feature",
@@ -306,7 +314,15 @@
       16.309595517742196
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Road survaillance Drone",
+        "Altitude": "90m",
+        "Velocity": "75mph",
+        "Battery_percentage": "68%",
+        "Mission_details": "UAV development continued during World War I, when the Dayton-Wright Airplane Company invented a pilotless aerial torpedo that would explode at a preset time",
+        "Owner": "Malcolm Rasmussen",
+        "Pilot": "Shubham"
+  },
 },
 {
   "type": "Feature",
@@ -317,7 +333,13 @@
       20.29311344754411
     ]
   },
-  "properties": {},
+  "properties": {"Mission":  "Find the documents in the underground lab",
+        "Altitude": "97m",
+        "Velocity": "79mph",
+        "Battery_percentage": "78%",
+        "Mission_details": "The earliest recorded use of an unmanned aerial vehicle for warfighting occurred on July 1849",
+        "Owner": "Denise Duran",
+        "Pilot": "Cali Conner"},
 },
 {
   "type": "Feature",
@@ -328,7 +350,15 @@
       16.04581345375217
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Secret stash in Pripyat",
+        "Altitude": "87m",
+        "Velocity": "89mph",
+        "Battery_percentage": "76%",
+        "Mission_details": "UAV innovations started in the early 1900s and originally focused on providing practice targets for training military personnel.",
+        "Owner": "Pablo Moss",
+        "Pilot": "Jamir Sanders"
+  },
 },
 {
   "type": "Feature",
@@ -339,7 +369,15 @@
       16.615137799987075
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Disable the Brain Scorcher",
+        "Altitude": "102m",
+        "Velocity": "92mph",
+        "Battery_percentage": "89%",
+        "Mission_details": "The earliest attempt at a powered UAV was A. M. Low's 'Aerial Target' in 1916",
+        "Owner": "Andy Mcclure",
+        "Pilot": "Wendy Pratt"
+  },
 },
 {
   "type": "Feature",
@@ -350,7 +388,15 @@
       15.178180945596363
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Secret lab - Mission Description",
+        "Altitude": "94m",
+        "Velocity": "98mph",
+        "Battery_percentage": "69%",
+        "Mission_details": "The first scaled remote piloted vehicle was developed by film star and model-airplane enthusiast Reginald Denny in 1935.",
+        "Owner": "Azul Flowers",
+        "Pilot": "Shania Castro"
+  },
 },
 {
   "type": "Feature",
@@ -361,7 +407,15 @@
       15.262988555023204
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "The Monolith's secret",
+        "Altitude": "84m",
+        "Velocity": "75mph",
+        "Battery_percentage": "63%",
+        "Mission_details": "The War of Attrition (1967–1970) featured the introduction of UAVs with reconnaissance cameras into combat in the Middle East.",
+        "Owner": "Ruby Rush",
+        "Pilot": "Jovanny Cross"
+  },
 },
 {
   "type": "Feature",
@@ -372,7 +426,15 @@
       13.859413869074032
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Take equipment from the trader",
+        "Altitude": "74m",
+        "Velocity": "77mph",
+        "Battery_percentage": "66%",
+        "Mission_details": "In the 1973 Yom Kippur War, Israel used UAVs as decoys to spur opposing forces into wasting expensive anti-aircraft missiles",
+        "Owner": "Haylee Davila",
+        "Pilot": "Mariah Hood"
+  },
 },
 {
   "type": "Feature",
@@ -383,7 +445,15 @@
       14.626108798876839
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Head to the outpost with the guide",
+        "Altitude": "78m",
+        "Velocity": "87mph",
+        "Battery_percentage": "78%",
+        "Mission_details": "In 1973, the U.S. military officially confirmed that they had been using UAVs in Southeast Asia (Vietnam).",
+        "Owner": "Maleah Forbes",
+        "Pilot": "Mark Christensen"
+  },
 },
 {
   "type": "Feature",
@@ -394,7 +464,15 @@
       13.581920900545844
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Ascend the tower",
+        "Altitude": "88m",
+        "Velocity": "81mph",
+        "Battery_percentage": "71%",
+        "Mission_details": "Israel developed the first UAV with real-time surveillance",
+        "Owner": "Felicity Berry",
+        "Pilot": "Elaina Peterson"
+  },
 },
 {
   "type": "Feature",
@@ -405,7 +483,15 @@
       18.87510275035649
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Ask Lebedev about what happened",
+        "Altitude": "85m",
+        "Velocity": "89mph",
+        "Battery_percentage": "51%",
+        "Mission_details": "In the 1980s and 1990s, interest in UAVs grew within the higher echelons of the U.S. military.",
+        "Owner": "Daniel Ortega",
+        "Pilot": "Jaydin Mclean"
+  },
 },
 {
   "type": "Feature",
@@ -416,7 +502,15 @@
       20.427012814257385
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Reinforce Clear Sky's presence in the Swamps",
+        "Altitude": "75m",
+        "Velocity": "99mph",
+        "Battery_percentage": "96%",
+        "Mission_details": "As of 2012, the USAF employed 7,494 UAVs",
+        "Owner": "Chaz Friedman",
+        "Pilot": "Rhys Khan"
+  },
 },
 {
   "type": "Feature",
@@ -427,7 +521,15 @@
       12.64033830684679
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Go to the Cordon with the guide",
+        "Altitude": "85m",
+        "Velocity": "98mph",
+        "Battery_percentage": "76%",
+        "Mission_details": "CAPECON was a European Union project to develop UAVs,[40] running from 1 May 2002 to 31 December 2005.",
+        "Owner": "Caleb Hawkins",
+        "Pilot": "Jazmine Short"
+  },
 },
 {
   "type": "Feature",
@@ -438,7 +540,15 @@
       13.239945499286312
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Defend the patrol: Bus stop",
+        "Altitude": "88m",
+        "Velocity": "91mph",
+        "Battery_percentage": "86%",
+        "Mission_details": "In 2013 at least 50 countries used UAVs",
+        "Owner": "Kenny Mclaughlin",
+        "Pilot": "Marshall Bonilla"
+  },
 },
 {
   "type": "Feature",
@@ -449,7 +559,15 @@
       11.738302371436854
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Meet the stalker leader",
+        "Altitude": "87m",
+        "Velocity": "71mph",
+        "Battery_percentage": "88%",
+        "Mission_details": "UAVs typically fall into one of six functional categories ",
+        "Owner": "Madilyn Pena",
+        "Pilot": "Barbara Rhodes"
+  },
 },
 {
   "type": "Feature",
@@ -460,7 +578,15 @@
       12.597454504832005
     ]
   },
-  "properties": {},
+  "properties": {
+        "Mission": "Halloween Flying Pumpkin Drone",
+        "Altitude": "80m",
+        "Velocity": "70mph",
+        "Battery_percentage": "60%",
+        "Mission_details": "Get information from the scout",
+        "Owner": "Sidorovich",
+        "Pilot": "Nimble"
+  },
 },
 {
   "type": "Feature",
@@ -471,7 +597,15 @@
       12.103780891645817
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Road survaillance Drone",
+        "Altitude": "90m",
+        "Velocity": "75mph",
+        "Battery_percentage": "68%",
+        "Mission_details": "UAV development continued during World War I, when the Dayton-Wright Airplane Company invented a pilotless aerial torpedo that would explode at a preset time",
+        "Owner": "Malcolm Rasmussen",
+        "Pilot": "Shubham"
+  },
 },
 {
   "type": "Feature",
@@ -482,7 +616,15 @@
       11.005904459659451
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Find the documents in the underground lab",
+        "Altitude": "97m",
+        "Velocity": "79mph",
+        "Battery_percentage": "78%",
+        "Mission_details": "The earliest recorded use of an unmanned aerial vehicle for warfighting occurred on July 1849",
+        "Owner": "Denise Duran",
+        "Pilot": "Cali Conner"
+  },
 },
 {
   "type": "Feature",
@@ -493,7 +635,15 @@
       11.39387923296741
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Secret stash in Pripyat",
+        "Altitude": "87m",
+        "Velocity": "89mph",
+        "Battery_percentage": "76%",
+        "Mission_details": "UAV innovations started in the early 1900s and originally focused on providing practice targets for training military personnel.",
+        "Owner": "Pablo Moss",
+        "Pilot": "Jamir Sanders"
+  },
 },
 {
   "type": "Feature",
@@ -504,7 +654,15 @@
       10.833305983642491
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Disable the Brain Scorcher",
+        "Altitude": "102m",
+        "Velocity": "92mph",
+        "Battery_percentage": "89%",
+        "Mission_details": "The earliest attempt at a powered UAV was A. M. Low's 'Aerial Target' in 1916",
+        "Owner": "Andy Mcclure",
+        "Pilot": "Wendy Pratt"
+  },
 },
 {
   "type": "Feature",
@@ -515,7 +673,15 @@
       9.709057068618208
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Secret lab - Mission Description",
+        "Altitude": "94m",
+        "Velocity": "98mph",
+        "Battery_percentage": "69%",
+        "Mission_details": "The first scaled remote piloted vehicle was developed by film star and model-airplane enthusiast Reginald Denny in 1935.",
+        "Owner": "Azul Flowers",
+        "Pilot": "Shania Castro"
+  },
 },
 {
   "type": "Feature",
@@ -526,7 +692,15 @@
       10.163560279490476
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "The Monolith's secret",
+        "Altitude": "84m",
+        "Velocity": "75mph",
+        "Battery_percentage": "63%",
+        "Mission_details": "The War of Attrition (1967–1970) featured the introduction of UAVs with reconnaissance cameras into combat in the Middle East.",
+        "Owner": "Ruby Rush",
+        "Pilot": "Jovanny Cross"
+  },
 },
 {
   "type": "Feature",
@@ -537,7 +711,15 @@
       9.297306856327596
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Take equipment from the trader",
+        "Altitude": "74m",
+        "Velocity": "77mph",
+        "Battery_percentage": "66%",
+        "Mission_details": "In the 1973 Yom Kippur War, Israel used UAVs as decoys to spur opposing forces into wasting expensive anti-aircraft missiles",
+        "Owner": "Haylee Davila",
+        "Pilot": "Mariah Hood"
+  },
 },
 {
   "type": "Feature",
@@ -548,7 +730,15 @@
       8.646195681181904
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Head to the outpost with the guide",
+        "Altitude": "78m",
+        "Velocity": "87mph",
+        "Battery_percentage": "78%",
+        "Mission_details": "In 1973, the U.S. military officially confirmed that they had been using UAVs in Southeast Asia (Vietnam).",
+        "Owner": "Maleah Forbes",
+        "Pilot": "Mark Christensen"
+  },
 },
 {
   "type": "Feature",
@@ -559,7 +749,15 @@
       16.003575733881327
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Ascend the tower",
+        "Altitude": "88m",
+        "Velocity": "81mph",
+        "Battery_percentage": "71%",
+        "Mission_details": "Israel developed the first UAV with real-time surveillance",
+        "Owner": "Felicity Berry",
+        "Pilot": "Elaina Peterson"
+  },
 },
 {
   "type": "Feature",
@@ -570,7 +768,15 @@
       18.166730410221938
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Ask Lebedev about what happened",
+        "Altitude": "85m",
+        "Velocity": "89mph",
+        "Battery_percentage": "51%",
+        "Mission_details": "In the 1980s and 1990s, interest in UAVs grew within the higher echelons of the U.S. military.",
+        "Owner": "Daniel Ortega",
+        "Pilot": "Jaydin Mclean"
+  },
 },
 {
   "type": "Feature",
@@ -581,7 +787,15 @@
       20.2209657795223
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Reinforce Clear Sky's presence in the Swamps",
+        "Altitude": "75m",
+        "Velocity": "99mph",
+        "Battery_percentage": "96%",
+        "Mission_details": "As of 2012, the USAF employed 7,494 UAVs",
+        "Owner": "Chaz Friedman",
+        "Pilot": "Rhys Khan"
+  },
 },
 {
   "type": "Feature",
@@ -592,7 +806,15 @@
       18.999802829053262
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Go to the Cordon with the guide",
+        "Altitude": "85m",
+        "Velocity": "98mph",
+        "Battery_percentage": "76%",
+        "Mission_details": "CAPECON was a European Union project to develop UAVs,[40] running from 1 May 2002 to 31 December 2005.",
+        "Owner": "Caleb Hawkins",
+        "Pilot": "Jazmine Short"
+  },
 },
 {
   "type": "Feature",
@@ -603,7 +825,15 @@
       17.497389400663824
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Defend the patrol: Bus stop",
+        "Altitude": "88m",
+        "Velocity": "91mph",
+        "Battery_percentage": "86%",
+        "Mission_details": "In 2013 at least 50 countries used UAVs",
+        "Owner": "Kenny Mclaughlin",
+        "Pilot": "Marshall Bonilla"
+  },
 },
 {
   "type": "Feature",
@@ -614,7 +844,15 @@
       15.199386048559994
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Meet the stalker leader",
+        "Altitude": "87m",
+        "Velocity": "71mph",
+        "Battery_percentage": "88%",
+        "Mission_details": "UAVs typically fall into one of six functional categories ",
+        "Owner": "Madilyn Pena",
+        "Pilot": "Barbara Rhodes"
+  },
 },
 {
   "type": "Feature",
@@ -625,7 +863,15 @@
       14.370833973406821
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission": "Halloween Flying Pumpkin Drone",
+        "Altitude": "80m",
+        "Velocity": "70mph",
+        "Battery_percentage": "60%",
+        "Mission_details": "Get information from the scout",
+        "Owner": "Sidorovich",
+        "Pilot": "Nimble"
+  },
 },
 {
   "type": "Feature",
@@ -636,7 +882,15 @@
       13.7313809749427
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Go to the Cordon with the guide",
+        "Altitude": "85m",
+        "Velocity": "98mph",
+        "Battery_percentage": "76%",
+        "Mission_details": "CAPECON was a European Union project to develop UAVs,[40] running from 1 May 2002 to 31 December 2005.",
+        "Owner": "Caleb Hawkins",
+        "Pilot": "Jazmine Short"
+  },
 },
 {
   "type": "Feature",
@@ -647,7 +901,15 @@
       9.340672181980947
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Take equipment from the trader",
+        "Altitude": "74m",
+        "Velocity": "77mph",
+        "Battery_percentage": "66%",
+        "Mission_details": "In the 1973 Yom Kippur War, Israel used UAVs as decoys to spur opposing forces into wasting expensive anti-aircraft missiles",
+        "Owner": "Haylee Davila",
+        "Pilot": "Mariah Hood"
+  },
 },
 {
   "type": "Feature",
@@ -658,7 +920,15 @@
       8.407168163601076
     ]
   },
-  "properties": {},
+  "properties": {
+    "Mission":  "Ask Lebedev about what happened",
+        "Altitude": "85m",
+        "Velocity": "89mph",
+        "Battery_percentage": "51%",
+        "Mission_details": "In the 1980s and 1990s, interest in UAVs grew within the higher echelons of the U.S. military.",
+        "Owner": "Daniel Ortega",
+        "Pilot": "Jaydin Mclean"
+  },
 }
     ]
 }
