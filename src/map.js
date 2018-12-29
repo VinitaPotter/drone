@@ -4,7 +4,7 @@ var map = new mapboxgl.Map({
     style: 'mapbox://styles/vinitapotter/cjq6kqnm8a1to2rpbopu6hpne',
     center: [73.8567, 18.5204],
     maxBounds: [[-180, -85], [180, 85]],
-    zoom: 9
+    zoom: 6
 });
 
     var stores = {
@@ -958,7 +958,7 @@ var map = new mapboxgl.Map({
       link.className = 'title';
       link.dataPosition = i;
       link.innerHTML = prop.Mission;
-    }
+    
 
     link.addEventListener('click', function(e) {
         var clickedListing = data.features[this.dataPosition];
@@ -992,6 +992,7 @@ var map = new mapboxgl.Map({
       });
     });
   }
+}
 
   function flyToStore(currentFeature) {
     map.flyTo({

@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding');
+
 body {
     margin: 0;
     padding: 0;
     background-color: #191A1A;
-    font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+    font: 400 15px/22px 'Nanum Gothic Coding', monospace;;
 }
 
 .container {
@@ -50,14 +52,6 @@ body {
     background-repeat: no-repeat;
     background-color: rgba(0, 0, 0, 0);
   }
-
-/* body {
-    color: #404040;
-    
-    margin: 0;
-    padding: 0;
-    -webkit-font-smoothing: antialiased;
-  } */
   
   * {
     -webkit-box-sizing: border-box;
@@ -74,18 +68,17 @@ body {
   }
   
   a {
-    color: #404040;
     text-decoration: none;
   }
-  
+
   a:hover {
     color: #101010;
   }
   
+  
   .sidebar {
     position: absolute;
     width: 33.3333%;
-    height: 100%;
     top: 0;
     left: 0;
     overflow: hidden;
@@ -136,7 +129,7 @@ body {
   .listings .item .title small { font-weight: 400; }
   
   .listings .item.active .title,
-  .listings .item .title:hover { color: #8cc63f; }
+  .listings .item .title:hover { color: orange; }
   
   .listings .item.active {
     background-color: #f8f8f8;
